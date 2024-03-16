@@ -25,8 +25,8 @@ Upon connecting to a specific database, users will have access to the following 
 
 ## Usage
 To use the application, follow these steps:
-1. Run the application.
-2. Navigate through the menu options using the arrow keys or by entering the corresponding numbers.
+1. Run the project.sh.
+2. Navigate through the menu options by entering the corresponding numbers.
 3. Follow the prompts to perform desired actions such as creating, connecting to, or managing databases and tables.
 
 ## Dependencies
