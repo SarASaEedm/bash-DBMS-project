@@ -11,6 +11,7 @@ The application will have the following features:
 - **List Databases:** Displays a list of existing databases.
 - **Connect To Database:** Enables users to connect to a specific database.
 - **Drop Database:** Allows users to delete a database.
+- **Rename Database:** Allows users to rename existing database.
 
 ### Database Menu:
 Upon connecting to a specific database, users will have access to the following menu:
